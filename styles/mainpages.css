@@ -1,0 +1,51 @@
+/* About Us */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+.page-header {
+    height: 80vh;
+    background-size: cover;
+    background: lightgray;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    align-items: center;
+}
+.header-filter .container {
+    z-index: 2;
+    position: relative;
+}
+
+
+/* All headers */
+header .main-nav{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 4000;
+}
+header .main-nav-scrolled{
+	background-color: rgba(0,0,0,0.4);
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+
+.dropdown-menu{
+	left:800px;
+}
+
+#d1{
+	left:750px;
+}
+
+#d2{
+	left:900px;
+}
+
+#d3{
+	left:1000px;
+}
+
+
+
